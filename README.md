@@ -1,7 +1,4 @@
 # robofriends
-Tutorial for udemy course - React
-To run the project:
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+Craeting template for a cool team site
+Here people can create their own avatars 
+fun way to keep in touch with the team
